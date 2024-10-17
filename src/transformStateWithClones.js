@@ -6,6 +6,7 @@
  *
  * @return {Object[]}
  */
+
 function transformStateWithClones(state, actions) {
   let copy = {};
 
